@@ -23,9 +23,7 @@
 </p>
 
        
-<div style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/>
-</div>
+<details align="center"> <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary> <img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/> </div>
 
 
 
