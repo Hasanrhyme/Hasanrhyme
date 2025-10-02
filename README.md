@@ -1,6 +1,10 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Hasan 👋</h2>
 
-
+<div align="center">
+    <a href="https://discord.com/users/1084939595940102144" title="Discord Account">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1084939595940102144" alt="Discord Lanyard Status">
+    </a>
+</div>
 
 <div align="center">
 
