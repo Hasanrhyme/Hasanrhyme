@@ -23,7 +23,10 @@
 </p>
 
        
-<img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/>
+<div style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/>
+</div>
+
 
 
 
