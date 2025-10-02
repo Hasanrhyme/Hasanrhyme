@@ -21,9 +21,8 @@
    <a href="https://www.instagram.com/hsnercn002" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </p>
-<div>
- <p align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-  <img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/>
-</div>
+
+       
+<details align="center"> <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary> <img src="https://komarev.com/ghpvc/?username=Hasanrhymec&style=for-the-badge&label=Ziyaretçi" alt="GitHub Ziyaretçi Sayacı"/> </div> bu kod ne yapıyo
+
 
