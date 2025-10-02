@@ -2,8 +2,8 @@
 
 
 <div align="center">
-    <a href="https://discord.com/users/683036205453148190" title="Discord Account">
-        <img src="https://lanyard-profile-readme.vercel.app/api/683036205453148190" alt="Discord Lanyard Status">
+    <a href="https://discord.com/users/1084939595940102144" title="Discord Account">
+        <img src="https://lanyard-profile-readme.vercel.app/api/1084939595940102144" alt="Discord Lanyard Status">
     </a>
 </div>
 <div align="center">
